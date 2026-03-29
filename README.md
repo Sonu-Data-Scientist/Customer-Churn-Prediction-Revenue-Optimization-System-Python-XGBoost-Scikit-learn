@@ -1,2 +1,4 @@
 # Customer-Churn-Prediction-Revenue-Optimization-System-Python-XGBoost-Scikit-learn
-https://github.com/Sonu-Data-Scientist/Customer-Churn-Prediction-Revenue-Optimization-System-Python-XGBoost-Scikit-learn/blob/main/Screenshot%202026-03-29%20175133.png
+## 🧠 Learning Outcomes
+
+![Dashboard Screenshot](https://github.com/sonu-analytics/Advance-student-management-system-in-python-with-database/blob/main/Screenshot%202025-05-10%20193935.png)
